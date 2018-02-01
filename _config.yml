@@ -16,7 +16,7 @@
 title: Adventures in Security
 description: 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://securitykitten.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_repo:  # the GitHub repo name for your project
 github_username: securitykitten
 
