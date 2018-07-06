@@ -4,7 +4,7 @@ title: Unstacking Strings with Cutter and Radare2
 date: 2018-07-06T09:45:09-04:00
 ---
 
-# Unstacking Strings with Cutter and Radare2 
+# Introduction 
 When performing malware analysis, one of the most common techniques of hiding strings is by simply "stacking" them or building them into a buffer to be called later.  This technique has been discussed time and time again, but it's not uncommon to find new pieces of malware that use this.   
 
 Understanding string stacking is important because many malware analysis tools still rely (and display) strings alone.  In some cases, the tool will show the ascii strings and omit the unicode strings, which is an even worse situation.  
